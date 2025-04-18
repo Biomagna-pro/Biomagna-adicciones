@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BIOMAGNA</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; background: #f5f5f5; }
+    header, footer { background-color: #01579b; color: white; padding: 1em; text-align: center; }
+    nav { background: #0288d1; padding: 1em; text-align: center; }
+    nav a { color: white; margin: 0 1em; text-decoration: none; font-weight: bold; }
+    section { padding: 2em; background: white; margin: 1em auto; max-width: 900px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1, h2 { color: #01579b; }
+    .cta { background: #0288d1; color: white; padding: 1em; text-align: center; margin-top: 2em; }
+    .cta a { background: white; color: #0288d1; padding: 0.7em 1.5em; text-decoration: none; border-radius: 5px; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>BIOMAGNA</h1>
+    <p>Reprograma tu mente. Recupera tu libertad.</p>
+  </header>
+
+  <nav>
+    <a href="#que-es">¿Qué es?</a>
+    <a href="#como-funciona">¿Cómo funciona?</a>
+    <a href="#testimonios">Testimonios</a>
+    <a href="#faq">Preguntas frecuentes</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="que-es">
+    <h2>¿Qué es BIOMAGNA?</h2>
+    <p>BIOMAGNA es un dispositivo de estimulación cerebral no invasiva que actúa sobre los circuitos relacionados con el impulso, la ansiedad y la regulación emocional. Combina neurociencia moderna con campos magnéticos suaves y precisos para promover el cambio desde la raíz.</p>
+    <ul>
+      <li>Natural y sin efectos secundarios</li>
+      <li>Seguro y fácil de aplicar</li>
+      <li>Apoya procesos de transformación profunda</li>
+    </ul>
+  </section>
+
+  <section id="como-funciona">
+    <h2>¿Cómo funciona?</h2>
+    <p>El proceso incluye:</p>
+    <ol>
+      <li>Evaluación neurocomportamental</li>
+      <li>Aplicación de BIOMAGNA (20-30 minutos por sesión)</li>
+      <li>Monitoreo de avances y refuerzos positivos</li>
+    </ol>
+    <p>Resultados comunes: claridad mental, reducción de ansiedad, control de impulsos, y bienestar general.</p>
+  </section>
+
+  <section id="testimonios">
+    <h2>Testimonios</h2>
+    <blockquote>
+      <p>"Sentí que mi cerebro volvía a respirar. Con BIOMAGNA pude recuperar el control sin esfuerzo." — Mariela G., 37 años</p>
+    </blockquote>
+    <blockquote>
+      <p>"Probé muchas cosas. Esto fue distinto. Más claridad, menos ansiedad, más enfoque." — Carlos A., 42 años</p>
+    </blockquote>
+  </section>
+
+  <section id="faq">
+    <h2>Preguntas Frecuentes</h2>
+    <p><strong>¿Es doloroso?</strong><br>No, la estimulación es suave e indolora.</p>
+    <p><strong>¿Cuántas sesiones necesito?</strong><br>Depende del caso, pero se recomiendan ciclos de 5 a 10 sesiones.</p>
+    <p><strong>¿Es compatible con otros tratamientos?</strong><br>Sí, puede ser un complemento ideal.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Para agendar tu sesión o pedir más información, escribinos:</p>
+    <p>Email: contacto@biomagna.com<br>WhatsApp: +54 9 351 xxx xxxx</p>
+  </section>
+
+  <div class="cta">
+    <p>¿Listo para comenzar tu transformación?</p>
+    <a href="#contacto">Agenda tu sesión gratuita</a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 BIOMAGNA. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
